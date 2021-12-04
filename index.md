@@ -10,7 +10,7 @@ Github:@natsu7278
  ・秋田工業高等専門学校　機械工学科　卒業 (2020-3)
  
 ## Research
- ・Medical Big data analisys
+ ・Medical Big data analysis
  
  ・Electoric health record
  
@@ -22,11 +22,19 @@ Github:@natsu7278
 ## Awards
  ・Gender Quest Season2 最優秀賞受賞(2021-9)
  
- ・Gender Quest  最優秀賞受賞(2021-10)
+ ・Gender Quest closing forum 最優秀賞受賞(2021-10)
  
  ・第12回全国高等専門学校英語プレゼンテーションコンテスト　cocet賞受賞(2018-1)
  
 ## Activity
- ...
-## Interesting
- ...
+ ・第1回フェーズフリーコンテスト(2021-6)
+ 
+ ・Gender Quest Season1(2021-6)
+  
+ ・第3回i-bankビジネスプランコンテスト(2021-7)
+ 
+ ・カレッジサミット新潟2021(2021-7)
+ 
+ ・ジュニア・アース・ジャパン2021新潟大会ファイナリストへSDGsについて講演(2021-8)
+ 
+ ・Online Intern Contest in NIIGATA 2021(2021-10)
