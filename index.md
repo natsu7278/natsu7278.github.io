@@ -16,7 +16,7 @@ Github:@natsu7278
  ・Machine Learning
  
 ## Skill
- ・
+ ・Python
  
 ## Awards
  ・Gender Quest Season2 最優秀賞受賞(2021-9)
