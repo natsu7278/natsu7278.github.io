@@ -32,9 +32,9 @@ Github:@natsu7278
  ・2021年11月～2月　株式会社いい生活　
  
 ## Awards
-2021年9月　Gender Quest Season2 最優秀賞受賞(2021-9)
+2021年9月　Gender Quest Season2 最優秀賞受賞
  
-2021年10月　Gender Quest closing forum 最優秀賞受賞(2021-10)
+2021年10月　Gender Quest closing forum 最優秀賞受賞
  
 2018年1月　第12回全国高等専門学校英語プレゼンテーションコンテスト　cocet賞受賞
  
