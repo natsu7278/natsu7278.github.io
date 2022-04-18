@@ -23,7 +23,9 @@ Github:@natsu7278
  
 ## Skill
  ・Python
+ 
  ・HTML＆CSS
+ 
  ・Ruby on Rails
  
 ## Internship
