@@ -21,17 +21,26 @@ Github:@natsu7278
  
  ・Machine Learning
  
+ ・Data mining
+ 
 ## Skill
  ・Python
  
- ・HTML＆CSS
+ ・HTML
+ 
+ ・CSS
  
  ・Ruby on Rails
  
 ## Internship
- ・2021年11月～2月　株式会社いい生活　
+ ・2022年5月～　株式会社Aidemy
+
+ ・2021年11月～2月　株式会社いい生活
+ 
  
 ## Awards
+2022年4月　サポーターズ主催「初めてのハッカソン」　努力賞　
+
 2021年9月　Gender Quest Season2 最優秀賞受賞
  
 2021年10月　Gender Quest closing forum 最優秀賞受賞
@@ -39,6 +48,10 @@ Github:@natsu7278
 2018年1月　第12回全国高等専門学校英語プレゼンテーションコンテスト　cocet賞受賞
  
 ## Activity
+ 2022年4月　サポーターズ主催「初めてのハッカソン」
+
+ 2022年3月　情報処理学会全国大会　発表
+ 
  2021年10月　Online Intern Contest in NIIGATA 2021
  
  2021年8月　ジュニア・アース・ジャパン2021新潟大会ファイナリストへSDGsについて講演
