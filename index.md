@@ -2,7 +2,7 @@
 
 Mail:s203365[at]stn.nagaokaut.ac.jp
 
-Github:@natsu7278
+Github:natsu7278
 
 ## Education
 
